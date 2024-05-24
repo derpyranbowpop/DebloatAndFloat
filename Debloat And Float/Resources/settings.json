@@ -1,0 +1,13 @@
+{
+  "ShowRemoveRABloatButton": false,
+  "ShowRemoveCustomButtons": false,
+  "ShowRemoveOptionalButtons": false,
+  "ShowRemoveProgramButtons": false,
+  "ShowRemoveDebloatButtons": false,
+  "ShowRemoveRepairButtons": false,
+  "ShrinkTextBox": false,
+  "monitorsettingAC": 60.0,
+  "sleepsettingAC": 120.0,
+  "monitorsettingDC": 20.0,
+  "sleepsettingDC": 50.0
+}
